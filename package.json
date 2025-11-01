@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "engines": {
-    "node": "18"
+    "node": "24"
   },
   "dependencies": {
     "vue": "^3.4.27"
